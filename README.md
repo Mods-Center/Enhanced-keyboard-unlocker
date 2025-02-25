@@ -6,6 +6,8 @@ Unlock enhanced keyboard function in Miui/HyperOS for all keyboards
 •Added new functions like Assistant and notes in frequent shortcuts
 
 •Fixed bottom view color for Gboard
+
+•Reduced extra bottom space from keyboard in Global roms
 # Important
 •Android 13+ requires disable apk verification (either from module or
  manually)
