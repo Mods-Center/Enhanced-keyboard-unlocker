@@ -13,7 +13,7 @@
 
 </div>
 
-## ✨ Features
+## Features
 - Enhanced keyboard toolbar for all keyboards
 - Assistant and Notes in the frequent shortcuts
 - Phrase panel background that follows the keyboard colour
@@ -21,19 +21,19 @@
 - Optional: remove the down arrow below the keyboard (chosen during install)
 - Works offline: everything is bundled in the module
 
-### 💡 Tips
+### Tips
 - Triple-tap the **Phrase** section to turn dynamic colour on or off (or set `persist.mdc_color_detection` to `true`/`false`).
 
-## 📋 Requirements
+## Requirements
 - MIUI or HyperOS
 - Magisk, KernelSU or APatch
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/Enhanced-keyboard-unlocker/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - Android 13+: Signature verification must be disabled. Flash [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) or [Apk Signature Verification Patch](https://github.com/Mods-Center/Apk-Signature-Verification-Patch) first, or use the Core Patch LSPosed module.
 - If the bottom bar colour is wrong on the newest Gboard, install an older Gboard version.
 
@@ -41,8 +41,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/Enhanced-keyboard-unlocker/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/Enhanced-keyboard-unlocker/issues)
 
 </div>
